@@ -1,0 +1,15 @@
+APIUser
+APIFiles
+APIDevice
+APIDeviceGroup
+APIProject
+APIProjectSharing
+APIProjectJobConfig
+APITestRun
+APITestRunConfig
+APITestRunParameter
+AndroidFiles
+CalabashFiles
+IOSFiles
+RemoteControlFiles
+UIAutomatorFiles
